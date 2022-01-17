@@ -1,0 +1,6 @@
+#0F0A2E // darkest navy
+#201461 // deep indigo
+#2E58B3 // royal blue
+#37888C // turquoise
+#77B573 // seafoam green
+#F2EBDA // off white

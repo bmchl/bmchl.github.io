@@ -1,0 +1,16 @@
+@import (./fonts/SFMonoBold.otf);
+@import (./fonts/SFMonoBoldItalic.otf);
+@import (./fonts/SFMonoRegular.otf);
+@import (./fonts/SFMonoRegularItalic.otf);
+@import (./fonts/SF-Pro-Display-Bold.otf);
+@import (./fonts/SF-Pro-Display-BoldItalic.otf);
+@import (./fonts/SF-Pro-Display-Regular.otf);
+@import (./fonts/SF-Pro-Display-RegularItalic.otf);
+
+body {
+	font-family: SF Pro, sans-serif;}
+
+.about h6 {
+	font-family: SF Mono, monospace;
+	font-size: 20px;}
+	
